@@ -1,10 +1,15 @@
 .gun {
 
   position : relative;
-  top: 6px;
-
+  top: 5px;
+  text-decoration: none;
 }
 
+.gun:hover {
+
+   text-decoration: none;
+  
+}
 
 body {
   font-family: 'Lora', 'Times New Roman', serif;
