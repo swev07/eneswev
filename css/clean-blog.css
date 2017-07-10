@@ -1,3 +1,11 @@
+.gun {
+
+  position : relative;
+  top: 6px;
+
+}
+
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 20px;
