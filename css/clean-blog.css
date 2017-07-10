@@ -97,7 +97,7 @@ hr.small {
   }
   .navbar-custom .nav li ul.dropdown-menu a:hover,
   .navbar-custom .nav li ul.dropdown-menu a:focus {
-    color: #0085A1;
+    
   }
 }
 @media only screen and (min-width: 1170px) {
